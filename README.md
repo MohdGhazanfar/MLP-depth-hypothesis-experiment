@@ -6,14 +6,16 @@ Dataset
 
 The Titanic dataset contains information about the passengers of the Titanic, including features such as passenger ID, ticket class, name, age, gender, number of siblings and spouses, number of parents and children, ticket number, fare, cabin number, and port of embarkation. The target variable is whether the passenger survived the sinking of the Titanic (1 = Yes, 0 = No).
 
-**Dependencies**
+**Dependencies:**
+
     • pandas
     • numpy
     • matplotlib
     • seaborn
     • scikit-learn
     
-**Usage**
+**Usage:**
+
     1. Clone the repository to your local machine:
     
        git clone https://github.com/your-username/MLP_depth hypothesis.git
